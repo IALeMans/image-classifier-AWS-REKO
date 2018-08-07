@@ -1,4 +1,4 @@
-# OVERVIEW
+# Overview
 This repo contains code for supervised classification based on text files and labellised pictures
 Pictures labellisation is run with AWS REKO API
 Model is trained with AUTOML
